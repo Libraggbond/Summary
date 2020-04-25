@@ -13,7 +13,7 @@
 
 4、powershell加密
 
-```powerline```
+```powerline：https://github.com/fullmetalcache/PowerLine```
 
 ```xencrypt: https://github.com/the-xentropy/xencrypt```
 
