@@ -31,3 +31,9 @@
 
 ```juicyPotato: https://github.com/ohpe/juicy-potato```
 
+7、windows api 添加用户用于绕过主动防御
+
+c++: ```https://github.com/catchermana/adduser```
+
+c:   ```https://github.com/newsoft/adduser```
+
