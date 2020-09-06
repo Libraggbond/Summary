@@ -1,5 +1,5 @@
 # Summary
-1、EXE转shellcode
+1、EXE转shellcode,注意Cobalstrike dll的入口函数是startW!!!
 
 ```donut: https://github.com/TheWover/donut``` 
 
